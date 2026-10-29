@@ -153,26 +153,7 @@ h4,
     color: #fff;
 }
 
-.zip-btn {
-    background: linear-gradient(135deg, var(--gold), #b58d1e);
-    color: #0b0c10;
-    border: none;
-    padding: 5px 14px;
-    border-radius: var(--radius-sm);
-    font-weight: 700;
-    font-size: 0.78rem;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    transition: var(--transition);
-}
 
-.zip-btn:hover {
-    background: var(--gold-light);
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
-}
 
 /* ===================================================================
    Header / Sticky Navbar
